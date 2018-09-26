@@ -1,6 +1,6 @@
 package algorithms;
 
-public class ZigZag_Conversion {
+public class ZigZag_Conversion_006 {
 
     public String convert(String s, int numRows) {
 
